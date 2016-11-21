@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--pkgName对应GetResourceRespInfo的strPkgName字段-->
+<!--version对应GetResourceRespInfo的uiNewVer字段-->
+<PicArray version="1"  pkgName="QQCHATPic_hdpi" >
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg101_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_101_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_101">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_101..png</thumbnail>    
+    </Pic>
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg102_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_102_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_102">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_102..png</thumbnail>    
+    </Pic>
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg103_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_103_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_103">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_103..png</thumbnail>    
+    </Pic>
+    
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg104_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_104_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_104">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_104..png</thumbnail>    
+    </Pic>
+    
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg105_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_105_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_105">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_105..png</thumbnail>    
+    </Pic>
+    
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg106_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_106_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_106">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_106..png</thumbnail>    
+    </Pic>
+    
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg107_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_107_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_107">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_107..png</thumbnail>    
+    </Pic>
+	
+	<Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg108_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_108_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_108">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_108..png</thumbnail>    
+    </Pic>
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg109_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_109_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_109">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_109..png</thumbnail>    
+    </Pic>	
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg1101_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_110_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_1101">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chat_bg_thumb_110..png</thumbnail>    
+    </Pic>	
+    <Pic>
+        <!-- 原图地址--> 
+        <resurl md5 = "qq2013_chatbg1112_hdpi">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/720V2/chat_bg_111_720.jpg</resurl> 
+        <!-- 缩略图地址-->  
+        <thumbnail md5 = "qq2013_chatbg_thumb_1112">http://appimg1.3g.qq.com/msoft/mobileQQ_theme/new_background/thumb/chatbg_thumb_111..png</thumbnail>    
+    </Pic>	  
+</PicArray>
