@@ -1,0 +1,8 @@
+1.socket 是一种IPC方法
+2.UNIX domain socket 分为流式和报式socket
+3.本地套接字
+struct sockaddr_un
+{
+    sa_family_t sun_family;
+    char sun_path[108];
+}
